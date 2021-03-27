@@ -1,0 +1,46 @@
+
+body{
+    background-image:url("../12b.jpg");
+    background-size:cover;
+    overflow-x:hidden;
+}
+#Minecraft3DObj{
+    position:absolute;
+    top:5%;
+    }
+
+.nav-item{
+    font-size:35px !important;
+    padding-left: 6vh !important;
+}
+
+.logo{
+    width:600px;
+}
+.containerMain{
+    max-width:100%;
+}
+.textPrew
+{
+    
+    height:70vh;
+    width:1050px;
+    max-width:55%;
+    background-color: black;
+    opacity: 0.7;
+    margin-left: 25vh;
+    margin-top:5vh;
+
+}
+.mainText{
+    font-size: calc(2rem + 0.45vw);
+    color:white;
+    padding-left:3%;
+    padding-top: 1%;
+    word-wrap: break-word;
+}
+
+.nav-item a:hover{
+    color:white !important;
+    text-decoration: underline;
+}
